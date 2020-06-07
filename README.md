@@ -1,7 +1,8 @@
 # LuaApps
 Reference for small games and animations builded using Lua programming language and LÖVE game engine.
 
-![Alt text](images/rain_screenshot.png) ![Alt text](screenshot.png) ![Alt text](screenshot.png)
+![Alt text](images/rain_screenshot.png) ![Alt text](images/stars_screenshot.png) ![Alt text](images/particles_screenshot.png)
+<img src="https://github.com/MatheusCod/LuaApps/blob/master/images/particles_screenshot.png" width="256" height="256">
 
 
 ## Rain
