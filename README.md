@@ -1,5 +1,5 @@
 # LuaApps
-Reference for small games and animations builded using Lua programming language and LÖVE game engine.
+Reference for small games and animations builded using Lua programming language and LÖVE 11.3 game engine.
 
 <p>
   <img src="https://github.com/MatheusCod/LuaApps/blob/master/images/rain_screenshot.png" width="256" height="256">
