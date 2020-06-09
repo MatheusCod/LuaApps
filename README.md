@@ -9,7 +9,7 @@ Reference for small games and animations builded using Lua programming language 
 
 
 ## Rain
-GitHub Repository: https://github.com/MatheusCod/Rain
+GitHub Repository: https://github.com/MatheusCod/Rain <br>
 Rain simulation build with LÖVE game engine using Lua programming language.
 
 ## Stars
