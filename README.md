@@ -21,3 +21,7 @@ Simulation build using Lua programming language and LÖVE 11.3 game engine.
 GitHub Repository: https://github.com/MatheusCod/Particles <br>
 Very simple particle simulation. <br>
 Simulation build using Lua programming language and LÖVE 11.3 game engine.
+
+## Snake
+GitHub Repository: https://github.com/MatheusCod/Snake <br>
+Classical Snake game implementation build using Lua programming language and LÖVE 11.3 game engine.
