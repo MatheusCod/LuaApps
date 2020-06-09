@@ -28,3 +28,6 @@ Simulation build using Lua programming language and LÖVE 11.3 game engine.
 ## Snake
 GitHub Repository: https://github.com/MatheusCod/Snake <br>
 Classical Snake game implementation build using Lua programming language and LÖVE 11.3 game engine.
+
+## How to play the games/animations
+https://love2d.org/wiki/Getting_Started
