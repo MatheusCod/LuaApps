@@ -32,6 +32,6 @@ Simulation build using Lua programming language and LÖVE 11.3 game engine.
 GitHub Repository: https://github.com/MatheusCod/Snake <br>
 Classical Snake game implementation build using Lua programming language and LÖVE 11.3 game engine
 
-# PongCloneLua
+## PongCloneLua
 GitHub Repository: https://github.com/MatheusCod/PongCloneLua <br>
-Really simple Pong clone game build in Lua with LÖVE game engine.
+Really simple Pong clone game build in Lua programming language and LÖVE 11.3 game engine
