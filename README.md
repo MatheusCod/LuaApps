@@ -15,18 +15,18 @@ Instructions on how to run the program can be found at: https://love2d.org/wiki/
 
 ## Rain
 GitHub Repository: https://github.com/MatheusCod/Rain <br>
-Rain simulation build using Lua programming language and LÖVE 11.3 game engine.
+Rain simulation build using Lua programming language and LÖVE 11.3 framework.
 
 ## Stars
 GitHub Repository: https://github.com/MatheusCod/Stars <br>
 A walk into the space(Starfield animation). <br>
-Simulation build using Lua programming language and LÖVE 11.3 game engine.
+Simulation build using Lua programming language and LÖVE 11.3 framework.
 
 ## Particles
 GitHub Repository: https://github.com/MatheusCod/Particles <br>
 Very simple particle simulation. <br>
-Simulation build using Lua programming language and LÖVE 11.3 game engine.
+Simulation build using Lua programming language and LÖVE 11.3 framework.
 
 ## Snake
 GitHub Repository: https://github.com/MatheusCod/Snake <br>
-Classical Snake game implementation build using Lua programming language and LÖVE 11.3 game engine
+Classical Snake game implementation build using Lua programming language and LÖVE 11.3 framework.
