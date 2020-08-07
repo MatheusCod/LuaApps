@@ -2,6 +2,11 @@
 Reference for small games and animations builded using Lua programming language and LÖVE 11.3 framework.
 
 <p>
+  <img src="https://github.com/MatheusCod/LuaApps/blob/master/images/ray_casting_3D_preview.gif" width="256" height="256">
+  <img src="https://github.com/MatheusCod/LuaApps/blob/master/images/ray_casting_2D_1_preview.gif" width="256" height="256">
+  <img src="https://github.com/MatheusCod/LuaApps/blob/master/images/ray_casting_2D_2_preview.gif" width="256" height="256">
+</p>
+<p>
   <img src="https://github.com/MatheusCod/LuaApps/blob/master/images/rain_screenshot.png" width="256" height="256">
   <img src="https://github.com/MatheusCod/LuaApps/blob/master/images/stars_screenshot.png" width="256" height="256">
   <img src="https://github.com/MatheusCod/LuaApps/blob/master/images/particles_screenshot.png" width="256" height="256">
