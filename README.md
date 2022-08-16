@@ -26,6 +26,10 @@ Ray casting build using Lua programming language and LÖVE 11.3 framework.
 GitHub Repository: https://github.com/MatheusCod/Ray_casting_2D <br>
 Ray casting build using Lua programming language and LÖVE 11.3 framework.
 
+## Not Boids
+GitHub Repository: https://github.com/MatheusCod/Ray_casting_2D <br>
+Not a boids implementation build using Lua programming language and LÖVE 11.3 framework.
+
 ## Rain
 GitHub Repository: https://github.com/MatheusCod/Rain <br>
 Rain simulation build using Lua programming language and LÖVE 11.3 framework.
