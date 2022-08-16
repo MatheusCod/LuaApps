@@ -4,6 +4,7 @@ Reference for small games and animations builded using Lua programming language 
 <p>
   <img src="https://github.com/MatheusCod/LuaApps/blob/master/images/ray_casting_3D_preview.gif" width="256" height="256">
   <img src="https://github.com/MatheusCod/LuaApps/blob/master/images/ray_casting_2D_1_preview.gif" width="256" height="256">
+  <img src="https://github.com/MatheusCod/LuaApps/raw/master/images/not_boids.gif" width="256" height="256" />
   <img src="https://github.com/MatheusCod/LuaApps/blob/master/images/ray_casting_2D_2_preview.gif" width="256" height="256">
 </p>
 <p>
