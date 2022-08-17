@@ -28,7 +28,7 @@ GitHub Repository: https://github.com/MatheusCod/Ray_casting_2D <br>
 Ray casting build using Lua programming language and LÖVE 11.3 framework.
 
 ## Not Boids
-GitHub Repository: https://github.com/MatheusCod/Ray_casting_2D <br>
+GitHub Repository: https://github.com/MatheusCod/not_boids <br>
 Not a boids implementation build using Lua programming language and LÖVE 11.3 framework.
 
 ## Rain
